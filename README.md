@@ -1,3 +1,5 @@
+# Swift 2.3 Compatible version of EPSignature.
+
 <p align="center" >
   <img src="Screenshots/logo.png" alt="EPSignature" title="EPSignature" width="196">
 </p>
